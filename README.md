@@ -2,7 +2,7 @@
 <div>
 <img width="220" alt="스크린샷 2022-06-07 오전 7 36 49" src="https://user-images.githubusercontent.com/75851930/172271546-bf68b7c5-d47b-4c25-be23-4f983fb99063.png">
     <img width = "10">
-<img width="450" alt="무제" src="https://user-images.githubusercontent.com/75851930/172271776-fd3eb516-f83a-4e5a-a92f-d100ad78d9df.png">
+<img width="455" alt="무제" src="https://user-images.githubusercontent.com/75851930/172271776-fd3eb516-f83a-4e5a-a92f-d100ad78d9df.png">
 </div>
 
 # EA diagram
